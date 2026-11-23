@@ -1,5 +1,3 @@
-# file-integrity-monitor
-
 # File Integrity Monitor
 
 A small Python CLI tool that uses SHA-256 hashes to detect changes in files
